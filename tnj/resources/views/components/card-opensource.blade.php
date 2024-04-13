@@ -1,6 +1,6 @@
 <x-card>
     <h3 class="text-2xl">Open Source Project</h3>
-    <p class="my-4">This is a an Open Source project, you can find the GitHib repository here: <a href="https://github.com/rnddave/thatNewJob" class="hover:text-colTwo absolute top-1/3 left-10"><i class="fa-brands fa-github"></i></a> and 
+    <p class="my-4">This is a an Open Source project, you can find the GitHib repository here: <a href="https://github.com/rnddave/thatNewJob" class="hover:text-colTwo"><i class="fa-brands fa-github"></i></a> and 
         you're welcome to get involved if you're able to do so.
         We're looking for contributions that help the platform today and for those that 
         can help us build additional functionality: 
