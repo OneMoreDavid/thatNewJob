@@ -1,6 +1,6 @@
 # What is this Project? 
 
-You can find more by reading my blog post <HERE>, but in short, I built this as a place to track my job seeking activities. I've built it in a way that I believe anyone can register an account and use it to track job seeking activities without intruding on the privacy of anyone else. 
+You can find more by reading my [blog post](https://onemoredavid.com/development/2024-04-13-that-new-job/), but in short, I built this as a place to track my job seeking activities. I've built it in a way that I believe anyone can register an account and use it to track job seeking activities without intruding on the privacy of anyone else. 
 
 ## Structure
 
