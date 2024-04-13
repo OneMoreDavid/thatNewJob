@@ -53,7 +53,6 @@ class UserItem extends Model
     }
 
     // link between Item(s) AND User
-
     public function user() {
         return $this->belongsTo(User::class, 'user_id');
     }
