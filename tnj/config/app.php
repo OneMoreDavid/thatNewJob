@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://thatnewjob.com'),
+    'url' => env('APP_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------
@@ -97,7 +97,7 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
-    'key' => env('APP_KEY', 'base64:bDhpNWxmYzZzcDFnZnBtenAzY2MzZXZ1aWptc2Rkbnc='),
+    'key' => env('APP_KEY'),
 
     'previous_keys' => [
         ...array_filter(
