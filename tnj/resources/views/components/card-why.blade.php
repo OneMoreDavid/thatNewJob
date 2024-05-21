@@ -5,7 +5,7 @@
         is entirely up to you. As the original creator, I use the platform to record the 
         following details: </p>
 
-        <div class="lg:grid lg:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
+        <div class="md:grid md:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
             <div>
                 <ul>
                     <li>Job Title</li>

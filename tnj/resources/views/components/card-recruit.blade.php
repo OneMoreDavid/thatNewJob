@@ -13,7 +13,7 @@
         as possible, gradually reducing the number of potential candidates down to a number 
         that you think will make it through to offer.</p>
 
-        <div class="lg:grid lg:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
+        <div class="md:grid md:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
             <div>
                 <ul>
                     <li>Awareness</li>

@@ -16,7 +16,7 @@
         This means that tracking all of your applications in a single place is not always 
         possible. So we're offering you the chance to track all of your job applications 
         in a single place. </p>
-        <div class="lg:grid lg:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
+        <div class="md:grid md:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
             <div>
                 <ul>
                     <li>Awareness</li>
