@@ -5,7 +5,7 @@
     <div >
         @include('partials._search')
 
-        Active:
+        <h3 class="text-2xl p-8">Active:</h3>
 
         <div class="lg:grid lg:grid-cols-2 gap-4 space-y-4 md:space-y-0 mx-4">
             @foreach ($userItems as $item)
@@ -21,7 +21,7 @@
 
         </div>
         
-        Inactive:
+        <h3 class="text-2xl p-8">Inactive:</h3>
         <div class="lg:grid lg:grid-cols-4 gap-4 space-y-4 md:space-y-0 mx-4">
             @foreach ($userItems as $item)
 
